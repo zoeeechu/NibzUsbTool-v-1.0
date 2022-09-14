@@ -1,10 +1,15 @@
-Hey thanks for using this tool!
+# Nibz v 1.0 
+###### (outdated made by me in like highschool lol)
+
+> IMPORTANT NOTE: this tool was for educational and experimental purposes only I am not responsible for ANY misuse of this tool 
+
+**Hey thanks for using this tool!**
 
 Instructions:
 
-make sure the files are placed on a usb with the label "G:"
-Make sure Windows defender is off
-then run nibz.exe!
+- make sure the files are placed on a usb with the label "G:"
+- Make sure Windows defender is off 
+- then run nibz.exe!
 
 Happy Hacking!
 
