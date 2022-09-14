@@ -1,4 +1,4 @@
-# Nibz v 1.0 
+# Nibz v 1.0 :smirk_cat:
 ###### (outdated made by me in like highschool lol)
 
 > IMPORTANT NOTE: this tool was for educational and experimental purposes only I am not responsible for ANY misuse of this tool 
@@ -11,7 +11,10 @@ Instructions:
 - Make sure Windows defender is off 
 - then run nibz.exe!
 
-Happy Hacking!
+Happy Hacking! :trollface:
+
+> A new version of this tool should be on my page 
+
 
 ```
                 @###                                                           
